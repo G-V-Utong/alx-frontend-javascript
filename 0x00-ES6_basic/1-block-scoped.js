@@ -18,6 +18,3 @@ export default function taskBlock(trueOrFalse) {
   return [task, task2];
 }
 
-
-console.log(taskBlock(true));
-console.log(taskBlock(false));
